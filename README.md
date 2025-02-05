@@ -1,5 +1,6 @@
 Ya i never used Github before, and what?
 
-[![GitHub Trends SVG](https://api.githubtrends.io/Kopydy/svg/avgupta456/langs)](https://githubtrends.io)
-
-
+![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/languages.svg#gh-light-mode-only)
