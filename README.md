@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Kopydy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats-jet-tau-38.vercel.app/api?username=Kopydy)](https://github.com/Kopydy/github-readme-stats)
