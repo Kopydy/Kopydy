@@ -4,6 +4,7 @@
 <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/Kopydy/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark">
 </a>
-
+  <img align="center" src="https://api.githubtrends.io/user/svg/Kopydy/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark">
+![GitHub Stats](./stats.svg)
 
 
