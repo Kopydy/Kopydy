@@ -6,4 +6,10 @@
 </a>
 
 
-
+- 👋 Hi, I’m @Kopydy
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning baiscs of game development and programing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: kopydy12 on discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love gym, books, drawing, worldbuilding and metal music
